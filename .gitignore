@@ -1,0 +1,33 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore package files
+*.deb
+*.rpm
+*.tar.gz
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore local environment files
+.env
+.env.local
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore node modules if any
+node_modules/
+
+# Ignore Kubernetes secrets
+*secret*.yaml
+*secrets*.yaml
+
+# Ignore temporary files
+*.tmp
+*.temp
