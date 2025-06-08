@@ -63,8 +63,12 @@ Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo
 └── docs/                 # Documentation and screenshots
 ```
 
-## Demo
+## Screenshots
 ![Screenshot 2025-06-09 at 1 02 33 AM](https://github.com/user-attachments/assets/6e9c9d82-6a64-4416-8e1e-e25bd2078691)
+
+
+https://github.com/user-attachments/assets/9a503c27-fb35-4860-b010-f4c4e5ccf886
+
 
 
 ## Lessons Learned
