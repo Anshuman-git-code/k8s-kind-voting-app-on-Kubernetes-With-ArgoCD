@@ -51,17 +51,9 @@ Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo
    - Configure Argo CD to track your application repository
    - Apply the application manifests
 
-## Project Structure
-```
-.
-├── k8s/                  # Kubernetes manifests
-│   ├── deployment.yaml   # Application deployment configurations
-│   ├── service.yaml      # Service definitions
-│   └── ingress.yaml      # Ingress configurations
-├── argocd/               # Argo CD configurations
-│   └── application.yaml  # Application definition for Argo CD
-└── docs/                 # Documentation and screenshots
-```
+## Architecture
+![Screenshot 2025-06-09 at 2 53 01 AM](https://github.com/user-attachments/assets/96add89c-6b36-48b3-818d-e8d4bf163109)
+
 
 ## Demo
 ![Screenshot 2025-06-09 at 1 02 33 AM](https://github.com/user-attachments/assets/6e9c9d82-6a64-4416-8e1e-e25bd2078691)
